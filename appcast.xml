@@ -3,13 +3,25 @@
     <channel>
         <title>Pult</title>
         <item>
+            <title>0.2.1</title>
+            <pubDate>Wed, 21 Oct 2026 23:00:51 +0100</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/halinskiy/pult-updates/releases/download/v0.2.1/Pult-0.2.1.zip" length="2638347" type="application/octet-stream" sparkle:edSignature="QTPFQ9JbLcw9leeWsRFZ4toe/eVLYLGpQJgeUeXs4RAYticW7LN0LiRNkKA0Xx+54KvYW1xZIoyEo8/vwJUDDQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/halinskiy/pult-updates/releases/download/v0.2.1/Pult2-1.delta" sparkle:deltaFrom="1" length="22682" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1ulUvDFtRYJ4hvbXHi1KklqnakcW0Zema56sTGWFLcNYtNwUDFtVa5nLU0xhFKKnDd6pR4sgqseKPdPu82yyDQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.2.0</title>
             <pubDate>Wed, 21 Oct 2026 22:38:19 +0100</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/halinskiy/pult-updates/releases/download/v0.2.0/Pult-0.2.0.zip" length="2638339" type="application/octet-stream" sparkle:edSignature="tzHE4+ootdY+wtUGGV2qsTMzKtlAUz+QuRVG+q5ZNc97cY31OFfg6KVcyBIYPvC5ydC1+KJcYNCoHQv0xs7tCA=="/>
+            <enclosure url="https://github.com/halinskiy/pult-updates/releases/download/v0.2.1/Pult-0.2.0.zip" length="2638339" type="application/octet-stream" sparkle:edSignature="tzHE4+ootdY+wtUGGV2qsTMzKtlAUz+QuRVG+q5ZNc97cY31OFfg6KVcyBIYPvC5ydC1+KJcYNCoHQv0xs7tCA=="/>
         </item>
     </channel>
 </rss>
