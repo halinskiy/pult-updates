@@ -3,6 +3,15 @@
     <channel>
         <title>Pult</title>
         <item>
+            <title>0.3.7</title>
+            <pubDate>Thu, 22 Oct 2026 21:04:54 +0100</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>0.3.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/halinskiy/pult-updates/releases/download/v0.3.7/Pult-0.3.7.zip" length="1964380" type="application/octet-stream" sparkle:edSignature="nYvxktQCpwLgdliHcUfJ9JGZUD7J1c6962EXifpIs7DYqfKCosaveVVOCiqUXWXLl8NRB3y0NX6mLUBbNYYVAA=="/>
+        </item>
+        <item>
             <title>0.3.6</title>
             <pubDate>Thu, 22 Oct 2026 19:03:34 +0100</pubDate>
             <sparkle:version>9</sparkle:version>
@@ -32,22 +41,6 @@
                 <enclosure url="https://github.com/halinskiy/pult-updates/releases/download/v0.3.5/Pult8-5.delta" sparkle:deltaFrom="5" length="145870" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="4Xy3pa414mjSJhtTkTv9Et7sEcL5Kx6xZAfNFl1QvpbL9Q/rHzAow8+Pw7G7B8d1Y1D+AhqDKe36LiXCL1tlDQ=="/>
                 <enclosure url="https://github.com/halinskiy/pult-updates/releases/download/v0.3.5/Pult8-4.delta" sparkle:deltaFrom="4" length="171578" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="R/OvWm5wPJxoTZuGPZBdmkQPc9Ml+v0rGj4ONiNbdVHOPClWkYto1kpaHz26tFNrFUuVMXF/58PeiKe+2zazAQ=="/>
                 <enclosure url="https://github.com/halinskiy/pult-updates/releases/download/v0.3.5/Pult8-3.delta" sparkle:deltaFrom="3" length="374218" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ysDeZoJlLBYV2W/HVoGUxwkb5lU81T4h0x4pVWB79W1E7NeMwDRy9nTNPcRxVXGXf5AibJ/880LRD2whAuxnAw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.3.4</title>
-            <pubDate>Thu, 22 Oct 2026 17:53:28 +0100</pubDate>
-            <sparkle:version>7</sparkle:version>
-            <sparkle:shortVersionString>0.3.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/halinskiy/pult-updates/releases/download/v0.3.6/Pult-0.3.4.zip" length="1951920" type="application/octet-stream" sparkle:edSignature="IDw9vDzblq0oRUj1SsvjQLT4+V0hhwKO0a6g6ro0Q8dkBw4/W1Lj/pr536Ibx3neIAXqHSFR75Ky4ZSIcATpCg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/halinskiy/pult-updates/releases/download/v0.3.4/Pult7-6.delta" sparkle:deltaFrom="6" length="77210" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="oSWW0SnoFbpbJgJ2XXdrA8cIlJocvIZEwENCQgcIV4aWzX/U+V4uOJPbT/VKOE2klgddRFDVOQdnyPrlkvL3Bw=="/>
-                <enclosure url="https://github.com/halinskiy/pult-updates/releases/download/v0.3.4/Pult7-5.delta" sparkle:deltaFrom="5" length="120886" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Cyu8NCXrl9rCsKn9G51kvOCH4fQxaG2co1Q9TwUj1TJzFK65F0bLJkxslXA2e7nJN1eywrFzft5SnlGfYFXRAA=="/>
-                <enclosure url="https://github.com/halinskiy/pult-updates/releases/download/v0.3.4/Pult7-4.delta" sparkle:deltaFrom="4" length="157166" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+TOYOAAln2tImQXSeK87fCXW9YXY9QfSQqD14w4OB6hc3pRo36aMpBbK4yyn4AiABp3a9X84vsJLfL2iUHJnCA=="/>
-                <enclosure url="https://github.com/halinskiy/pult-updates/releases/download/v0.3.4/Pult7-3.delta" sparkle:deltaFrom="3" length="357738" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="vDuShOkmnoKI001L5Ltri0MGhGtWNzv6AwT4QtuQyTlRFU71VXcdk+H3D2lkURBB5ytkgVAg9eHrepnQY86KAA=="/>
-                <enclosure url="https://github.com/halinskiy/pult-updates/releases/download/v0.3.4/Pult7-2.delta" sparkle:deltaFrom="2" length="422738" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="4UOI2U5Q+0escN6inZqAEKbDmnKO2E81d1k2C3mGSboztIUkQnkuRY+IRMQ4+MHnZG/MZvnsKitue1uHkJgaAA=="/>
             </sparkle:deltas>
         </item>
     </channel>
