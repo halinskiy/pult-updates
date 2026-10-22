@@ -3,13 +3,27 @@
     <channel>
         <title>Pult</title>
         <item>
+            <title>0.4.0</title>
+            <pubDate>Thu, 22 Oct 2026 22:46:08 +0100</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/halinskiy/pult-updates/releases/download/v0.4.0/Pult-0.4.0.zip" length="1984389" type="application/octet-stream" sparkle:edSignature="+nRJ2fgMvJCFhraoroTz/OvIU/3uLx/VuYyqiaehUu891iXRiML/E3/EJvxDOZOtRh2+SvQbGfUAHwK2mtQVBQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/halinskiy/pult-updates/releases/download/v0.4.0/Pult13-12.delta" sparkle:deltaFrom="12" length="141038" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="lgAQcZfOj2scn8mEHrCD27D20DDStchaZueRC/qPAMp02ls+NpVTu0ILkrCd8ulYYxpq6GCMkvKLQnAhzYA5Dw=="/>
+                <enclosure url="https://github.com/halinskiy/pult-updates/releases/download/v0.4.0/Pult13-11.delta" sparkle:deltaFrom="11" length="172650" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Xny6UKfrzvZaKrVah+fmhWx2Nmpw1qGeUJ2kAl1pZDNAAk+fvjgcr2/YMBeZ7Zdm0dmlQT2YBgREDC9YsVa6Dw=="/>
+                <enclosure url="https://github.com/halinskiy/pult-updates/releases/download/v0.4.0/Pult13-10.delta" sparkle:deltaFrom="10" length="225730" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="kUOfi/ot4zny/BFpNPKmqquKH7uLTBELAtMGLFqdBSMHn40z7eOqq6cahrVvglobH/lOTOohJ8ye72MKTfJcCg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.3.9</title>
             <pubDate>Thu, 22 Oct 2026 22:01:03 +0100</pubDate>
             <sparkle:version>12</sparkle:version>
             <sparkle:shortVersionString>0.3.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/halinskiy/pult-updates/releases/download/v0.3.9/Pult-0.3.9.zip" length="1964152" type="application/octet-stream" sparkle:edSignature="0eVZeol9Ab1iNg8IlTpwPlRczKnHTQlReXTlEWLFXjhM8HM24sQSAtSGDnaLtGiEGfcdXOVPkxCMs1BJe3wBAg=="/>
+            <enclosure url="https://github.com/halinskiy/pult-updates/releases/download/v0.4.0/Pult-0.3.9.zip" length="1964152" type="application/octet-stream" sparkle:edSignature="0eVZeol9Ab1iNg8IlTpwPlRczKnHTQlReXTlEWLFXjhM8HM24sQSAtSGDnaLtGiEGfcdXOVPkxCMs1BJe3wBAg=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/halinskiy/pult-updates/releases/download/v0.3.9/Pult12-11.delta" sparkle:deltaFrom="11" length="121566" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="95TGfcfbMbTuPbcAd13R+OFRC/OLUim2+JYPLwhfkvjeuYwruUDIXt2gwIStYaGKOH/9kqVja1mmLyhU19bICw=="/>
                 <enclosure url="https://github.com/halinskiy/pult-updates/releases/download/v0.3.9/Pult12-10.delta" sparkle:deltaFrom="10" length="197134" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="LY0Sb70/qtR969m2+3zkfxi9zlngAdJbCxLLOYRIYB42r4Es2QIAvgzVgIpzs3jFSj2Qq+bKnhz+m2J2fwDrAA=="/>
@@ -22,19 +36,10 @@
             <sparkle:shortVersionString>0.3.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/halinskiy/pult-updates/releases/download/v0.3.9/Pult-0.3.8.zip" length="1961424" type="application/octet-stream" sparkle:edSignature="1wdAA9xg2qsFStcSZrG3gAdv6RraBg7wbAY68HPDMk3Gq/LWxXOVGKeNaM9u8YpnLB3JA8jki6FljrQYHNxMCQ=="/>
+            <enclosure url="https://github.com/halinskiy/pult-updates/releases/download/v0.4.0/Pult-0.3.8.zip" length="1961424" type="application/octet-stream" sparkle:edSignature="1wdAA9xg2qsFStcSZrG3gAdv6RraBg7wbAY68HPDMk3Gq/LWxXOVGKeNaM9u8YpnLB3JA8jki6FljrQYHNxMCQ=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/halinskiy/pult-updates/releases/download/v0.3.8/Pult11-10.delta" sparkle:deltaFrom="10" length="162178" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="K4OoUL8ibJLPIHFXNk7aS0TZT/b9+gmnGQ3TtjZvhTnWLT8rO6pcHgQgG9J1rD8vbB+oaffr4LRjEoxn7PTqDA=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.3.7</title>
-            <pubDate>Thu, 22 Oct 2026 21:04:54 +0100</pubDate>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>0.3.7</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/halinskiy/pult-updates/releases/download/v0.3.9/Pult-0.3.7.zip" length="1964380" type="application/octet-stream" sparkle:edSignature="nYvxktQCpwLgdliHcUfJ9JGZUD7J1c6962EXifpIs7DYqfKCosaveVVOCiqUXWXLl8NRB3y0NX6mLUBbNYYVAA=="/>
         </item>
     </channel>
 </rss>
